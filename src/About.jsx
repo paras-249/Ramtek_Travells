@@ -5,8 +5,10 @@ const About = () => {
         <>
         <aside>
             <div id='about'>
-                <div>About <span>RAMTEK</span></div>
-                <div>Ramtek has got Historic temple of lord Rama. It is believed that Ramtek was the place where Rama, the Hindu god, rested while he was in exile. </div>
+                <div className='title'>Welcome   to   देवभूमी</div>
+                <br />
+                <div className='ramtek'><span className='Ram'> RAM</span> <span className='T'> T</span><span className='ek'>EK</span></div>
+
             </div>
         </aside>
         </>

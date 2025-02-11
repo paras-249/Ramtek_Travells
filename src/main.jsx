@@ -5,6 +5,7 @@ import Nav from './Nav.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Nav />
+    <br />
     <About/>
-  </StrictMode>,
+  </StrictMode>
 )

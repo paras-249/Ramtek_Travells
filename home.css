@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('src/assets/mountain.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    image-rendering: -webkit-optimize-contrast; /* Prevents blurring */
+
+}
+.title {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 600%;
+    word-spacing: 3rem;
+}
+.ramtek{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 800%;
+    font-weight: 300;
+}
+.Ram{
+    color: rgb(241, 101, 50);
+
+
+}

@@ -5,7 +5,7 @@
     border: 1px solid rgb(242, 234, 234);
     border-radius: 5px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(2px);
 align-items: center;
 margin: 10px 10px;
 
