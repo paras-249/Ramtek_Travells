@@ -2,12 +2,19 @@
     margin: 0;
     padding: 0;
 }
-
 body {
+
+    background-color: rgba(9, 1, 1, 0.915);
+
+}
+
+#root {
+    height: 90vh;
+    width: 100vw;
     background-image: url('src/assets/mountain.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     image-rendering: -webkit-optimize-contrast; /* Prevents blurring */
 
