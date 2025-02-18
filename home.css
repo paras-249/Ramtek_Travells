@@ -32,6 +32,7 @@ body {
     display: flex;
     font-size: 800%;
     font-weight: 300;
+    margin-bottom: 25%;
 }
 .Ram{
     color: rgb(241, 101, 50);
